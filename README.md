@@ -1,4 +1,4 @@
-### Hi there, I'm David 👋
+### Hi there, I'm David (monito) 👋
 
 ## I'm a Enginner, Developer, and Tutor!
 
@@ -7,7 +7,11 @@
 - 👯 I’m looking to collaborate on technology / education projects.
 - ⚡ Fun fact: I love play soccer and watch comedy shows.
 
-### Connect with me:
+### 🛠️ Skills 
+- **Languages and Tools**:  Ruby, RoR, Javascript, React, Python, SQL
+- **DevOps**:   Linux, Git, Docker, REST API
+
+### 📫 Connect with me:
 - Email: [davidrivasa.12@gmail.com](mailto:davidrivasa.12@gmail.com)
 - LinkedIn: [@davidrivas](https://www.linkedin.com/in/davidrivasa/)
 
